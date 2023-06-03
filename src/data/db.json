@@ -1,0 +1,415 @@
+{
+
+    "productos": [
+                    
+                    {
+                        "id": 1,
+                        "imagen": "https://cdn.pixabay.com/photo/2021/11/20/02/52/apple-6810736_960_720.png",
+                        "nombre": "Manzana",
+                        "precio": 2000,
+                        "calificacion": 4,
+                        "tipo": "Vegetables&Fruit"
+                      },
+                      {
+                        "id": 2,
+                        "imagen": "https://www.conaprole.uy/wp-content/uploads/2018/03/naranja-250ml.png",
+                        "nombre": "Juego de Naranja",
+                        "precio": 15000,
+                        "calificacion": 5,
+                        "tipo": "Beverages"
+                      }, 
+                      {
+                          "id": 3,
+                          "imagen": "https://www.mercadoslpineda.co/4006-thickbox_default/carne-de-res-porcionada-ranchera-x600gr.jpg",
+                          "nombre": "Carne de Res",
+                          "precio": 10000,
+                          "calificacion": 4,
+                          "tipo": "Meats&Seafood"
+                        },
+                        {
+                          "id": 4,
+                          "imagen": "https://mercadomadrid.com.co/6325-thickbox_default/cereal-zucaritas-kellogs-bl300g.jpg",
+                          "nombre": "Zucaritas Kelogg's",
+                          "precio": 17000,
+                          "calificacion": 5,
+                          "tipo": "Breakfast&Dairy"
+                        },
+                       
+                    {
+                        "id": 5,
+                        "imagen": "https://frozenafoods.com/wp-content/uploads/2021/07/Frozena-2.png",
+                        "nombre": "Papitas Fritas",
+                        "precio": 10,
+                        "calificacion": 4,
+                        "tipo": " FrozenFoods"
+                      },
+                      {
+                        "id": 6,
+                        "imagen": "https://shop.cordialsausa.com/cdn/shop/products/047416131130_H1L1_700x700.png?v=1633447660",
+                        "nombre": "Paquete de Galletas Festival ",
+                        "precio": 18000,
+                        "calificacion": 5,
+                        "tipo": "Biscuits&Snacks"
+                      },
+                       
+                    {
+                        "id": 7,
+                        "imagen": "https://www.camiloalbarracin.com/wp-content/uploads/2022/04/pan-quinua.png",
+                        "nombre": "Pan Fino",
+                        "precio": 10000,
+                        "calificacion": 4,
+                        "tipo": "Grocery&Staples"
+                      },
+                      {
+                        "id": 8,
+                        "imagen": "https://ribolione-images-production-us-east-2-9354302113.s3.us-east-2.amazonaws.com/images/thumbs/0001167_stella-rosa-watermelon.png",
+                        "nombre": "Stella Rosa",
+                        "precio": 150000,
+                        "calificacion": 5,
+                        "tipo": "Wines&AlcoholDrinks"
+                      },                       
+                                          
+                    {
+                        "id": 9,
+                        "imagen": "https://media.smurfitkappa.com/co/-/m/images/products-images-740x-740/packaging/berry-punnets/octagonal-punnet-strawberri.png?rev=c8e999293b64444da26cd2d0db2b367b&t=a-s&arw=1&arh=1&arm=focuspoint&w=546&hash=B9A9A80F3CFDC039B5DD641A8C90A264",
+                        "nombre": "Paquete de Fresas",
+                        "precio": 10000,
+                        "calificacion": 4,
+                        "tipo": "Vegetables&Fruit"
+                      },
+                      {
+                        "id": 10,
+                        "imagen": "https://copservir.vtexassets.com/arquivos/ids/763127/LECHE-ALPINA-ENTERA_F.png?v=637950264503170000",
+                        "nombre": "Leche Alpina",
+                        "precio": 11000,
+                        "calificacion": 5,
+                        "tipo": "Beverages"
+                      }, 
+                      {
+                          "id": 11,
+                          "imagen": "https://www.zenu.com.co/wp-content/uploads/2019/07/salchicha-tradicional-zenu.png",
+                          "nombre": "Salcichas Zenú",
+                          "precio": 9000,
+                          "calificacion": 4,
+                          "tipo": "Meats&Seafood"
+                        },
+                        {
+                          "id": 12,
+                          "imagen": "https://www.merkadomi.com/wp-content/uploads/2020/07/pan-blanco470.png",
+                          "nombre": "Pan Bimbo",
+                          "precio": 7000,
+                          "calificacion": 5,
+                          "tipo": "Breakfast&Dairy"
+                        },
+                       
+                    {
+                        "id": 13,
+                        "imagen": "https://donalejo.co/wp-content/uploads/2021/06/Deditos_Lonchera_Queso_x10.png",
+                        "nombre": "Deditos de Queso",
+                        "precio": 15000,
+                        "calificacion": 4,
+                        "tipo": " FrozenFoods"
+                      },
+                      {
+                        "id": 14,
+                        "imagen": "https://copservir.vtexassets.com/arquivos/ids/909916/DETODITO-BBQ_F.png?v=638129928677530000",
+                        "nombre": "De Todito BBQ",
+                        "precio": 14000,
+                        "calificacion": 5,
+                        "tipo": "Biscuits&Snacks"
+                      },
+                       
+                    {
+                        "id": 15,
+                        "imagen": "https://www.pngkit.com/png/full/409-4093730_huevos-cajumar-venta-carton-de-huevos.png",
+                        "nombre": "Cartón de Huevos",
+                        "precio": 10,
+                        "calificacion": 4,
+                        "tipo": "Grocery&Staples"
+                      },
+                      {
+                        "id": 16,
+                        "imagen": "https://dislicoresqa.vtexassets.com/arquivos/ids/326239/364033-CERVEZA_ANDINA_LATA_X6.png?v=638077995170170000",
+                        "nombre": "Cerveza Andina",
+                        "precio": 13000,
+                        "calificacion": 5,
+                        "tipo": "Wines&AlcoholDrinks"
+                      },                       
+                                          
+                    {
+                        "id": 17,
+                        "imagen": "https://fruteria.com.co/54-large_default/brocoli-x-1-unidad.jpg",
+                        "nombre": "Brócoli",
+                        "precio": 5000,
+                        "calificacion": 4,
+                        "tipo": "Vegetables&Fruit"
+                      },
+                      {
+                        "id": 18,
+                        "imagen": "https://mistiendas.com.co/1099-large_default/yogurt-original-sabores-x1750g.jpg",
+                        "nombre": "Yogurt Alpina",
+                        "precio": 18000,
+                        "calificacion": 5,
+                        "tipo": "Beverages"
+                      }, 
+                      {
+                          "id": 19,
+                          "imagen": "https://supertiendascomunal.com/8272-home_default/trucha-kilo.jpg",
+                          "nombre": "Pescado Fresco",
+                          "precio": 20000,
+                          "calificacion": 4,
+                          "tipo": "Meats&Seafood"
+                        },
+                        {
+                          "id": 20,
+                          "imagen": "https://www.productosmaby.com/wp-content/uploads/2019/09/producto-maple.png",
+                          "nombre": "Miel de Maple",
+                          "precio": 11000,
+                          "calificacion": 5,
+                          "tipo": "Breakfast&Dairy"
+                        },
+                       
+                    {
+                        "id": 21,
+                        "imagen": "https://tipicasempanadas.com/wp-content/uploads/2020/11/Empanadas-Congeladas-Pollo-Grd-Tipicas-Empanadas.png",
+                        "nombre": "Empanadas de Maíz",
+                        "precio": 10000,
+                        "calificacion": 4,
+                        "tipo": " FrozenFoods"
+                      },
+                      {
+                        "id": 22,
+                        "imagen": "https://akilo.co/wp-content/uploads/2021/04/Casero_TresLeches-300x300.png",
+                        "nombre": "Tres Leche",
+                        "precio": 8500,
+                        "calificacion": 5,
+                        "tipo": "Biscuits&Snacks"
+                      },
+                       
+                    {
+                        "id": 23,
+                        "imagen": "https://merkaqui.com/wp-content/uploads/harina-pan-maiz-blanco-merkaqui-mercado-a-domicilio-en-cucuta-tienda-virtual.png",
+                        "nombre": "Harina Pan",
+                        "precio": 6000,
+                        "calificacion": 4,
+                        "tipo": "Grocery&Staples"
+                      },
+                      {
+                        "id": 24,
+                        "imagen": "https://katadores.com/wp-content/uploads/2022/08/Coronita-extra-sixpack.png",
+                        "nombre": "Coronita",
+                        "precio": 23000,
+                        "calificacion": 5,
+                        "tipo": "Wines&AlcoholDrinks"
+                      },                       
+                                          
+                    {
+                        "id": 25,
+                        "imagen": "https://fruteria.com.co/36-large_default/pera-importada-x-500-g.jpg",
+                        "nombre": "Pera",
+                        "precio": 35000,
+                        "calificacion": 4,
+                        "tipo": "Vegetables&Fruit"
+                      },
+                      {
+                        "id": 26,
+                        "imagen": "https://supermercadolaestacion.com/41555-thickbox_default/gaseosa-postobon-botella-x-3125-litros-manzana.jpg",
+                        "nombre": "Manzana Postobón",
+                        "precio": 12000,
+                        "calificacion": 5,
+                        "tipo": "Beverages"
+                      }, 
+                      {
+                          "id": 27,
+                          "imagen": "https://nutriciosa.com/wp-content/uploads/2018/07/masita-de-costilla-montaje.png",
+                          "nombre": "Masita de Costilla",
+                          "precio": 25000,
+                          "calificacion": 4,
+                          "tipo": "Meats&Seafood"
+                        },
+                        {
+                          "id": 28,
+                          "imagen": "https://comfandivirtual.com.co/home/18796-large_default/avena-en-hojuelas-fortificada-doypack-350gr-quaker.jpg",
+                          "nombre": "Avena Quaker",
+                          "precio": 6500,
+                          "calificacion": 5,
+                          "tipo": "Breakfast&Dairy"
+                        },
+                       
+                    {
+                        "id": 29,
+                        "imagen": "https://cdn-cosmos.bluesoft.com.br/products/5411683002321",
+                        "nombre": "Sopa Pronta",
+                        "precio": 10000,
+                        "calificacion": 4,
+                        "tipo": " FrozenFoods"
+                      },
+                      {
+                        "id": 30,
+                        "imagen": "https://lh3.googleusercontent.com/RDV0BXG3DGXGnJteTDL-ciR5qmwXd2MSzU8l8j0RIplp1jHtQXXYwgz_GykBmiVR49eq2fn0V-zJH2jfYjs1MX_-zcQNRcMxVMTUdcYoXFz0L3U1",
+                        "nombre": "Papitas",
+                        "precio": 9000,
+                        "calificacion": 5,
+                        "tipo": "Biscuits&Snacks"
+                      },
+                       
+                    {
+                        "id": 31,
+                        "imagen": "https://www.hv.com.co/wp-content/uploads/2018/02/PASTA-LA-MUNECA-TORNILLO-250G.png",
+                        "nombre": "Spaghetti",
+                        "precio": 7000,
+                        "calificacion": 4,
+                        "tipo": "Grocery&Staples"
+                      },
+                      {
+                        "id": 32,
+                        "imagen": "https://lalicorera.com/img/products/sixpack-costena.png",
+                        "nombre": "Costeñita",
+                        "precio": 12000,
+                        "calificacion": 5,
+                        "tipo": "Wines&AlcoholDrinks"
+                      },                       
+                                          
+                    {
+                        "id": 33,
+                        "imagen": "https://saboreaunohoy.com/wp-content/uploads/aguacates-par.png",
+                        "nombre": "Aguacate",
+                        "precio": 10000,
+                        "calificacion": 4,
+                        "tipo": "Vegetables&Fruit"
+                      },
+                      {
+                        "id": 34,
+                        "imagen": "https://countryspizza.com.co/wp-content/uploads/2020/09/agua-cristal.png",
+                        "nombre": "Agua Cristal",
+                        "precio": 15,
+                        "calificacion": 5,
+                        "tipo": "Beverages"
+                      }, 
+                      {
+                          "id": 35,
+                          "imagen": "https://cdn.shopify.com/s/files/1/0252/0481/7968/products/pizza-carnes-jamon-y-peperoni_800x.png?v=1595108785",
+                          "nombre": "Pizza Congelada",
+                          "precio": 10,
+                          "calificacion": 4,
+                          "tipo": "Meats&Seafood"
+                        },
+                        {
+                          "id": 36,
+                          "imagen": "https://images.kglobalservices.com/www.kelloggs.com/en_us/product/product_4508497/prod_img-3394699_new_redbox_optimized.png",
+                          "nombre": "Froot Loops",
+                          "precio": 15000,
+                          "calificacion": 5,
+                          "tipo": "Breakfast&Dairy"
+                        },
+                       
+                    {
+                        "id": 37,
+                        "imagen": "https://mercadosla53.com.co/wp-content/uploads/2021/06/PARVA-3.png",
+                        "nombre": "Nuggets de Pollo",
+                        "precio": 16000,
+                        "calificacion": 4,
+                        "tipo": " FrozenFoods"
+                      },
+                      {
+                        "id": 38,
+                        "imagen": "https://files.merca20.com/uploads/2016/06/Dona-Krispy-Kreme.png",
+                        "nombre": "Dona",
+                        "precio": 4000,
+                        "calificacion": 5,
+                        "tipo": "Biscuits&Snacks"
+                      },
+                       
+                    {
+                        "id": 39,
+                        "imagen": "https://files.merca20.com/uploads/2016/06/Dona-Krispy-Kreme.png",
+                        "nombre": "Aceite",
+                        "precio": 19000,
+                        "calificacion": 4,
+                        "tipo": "Grocery&Staples"
+                      },
+                      {
+                        "id": 40,
+                        "imagen": "https://lalicorera.com/img/products/buchanans-two-souls.png",
+                        "nombre": "Buchanan's",
+                        "precio": 300000,
+                        "calificacion": 5,
+                        "tipo": "Wines&AlcoholDrinks"
+                      }                     
+                      
+                             
+                         
+                        
+  
+  
+                    
+                 ],
+  
+  
+  
+    "administrador": [
+  
+                  {
+                    "nombre": "Pablo",
+                    "correo": "Pablo02",
+                    "contraseña": "12345",
+                    "id": 1
+                  },
+                  {
+                    "nombre": "Bruce",
+                    "correo": "Bruce05",
+                    "contraseña": "54321",
+                    "id": 2
+                  },
+                  
+                  {
+                    "nombre": "Logan",
+                    "correo": "Logan23",
+                    "contraseña": "98765",
+  
+                    "id": 3
+                  }, 
+                  {
+                    "nombre": "Paul",
+                    "correo": "Paul35",
+                    "contraseña": "3534",
+  
+                    "id": 4
+                  },                  
+                  {
+                    "nombre": "Stuart",
+                    "correo": "Stuart03",
+                    "contraseña": "1010",
+  
+                    "id": 5
+                  }
+  
+                  
+                   
+                  
+                  
+                  
+  
+  
+                ],
+  
+    "historial_de_compra": [
+                  {
+                    "nombre_comprador": "Bart",
+                    "direccion": "Sicilia",
+                    "telefono": "1234567890",
+                    "productos_comprados": [
+                      {
+                        "id_producto": 7,
+                        "cantidad": 3
+                      }
+                      
+                    ],
+                    "total_cuenta": 0
+                  }
+                 
+                ]
+  
+  
+  
+  }
